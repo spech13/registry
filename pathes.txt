@@ -1,0 +1,1 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\<user_sid>\ProfileImagePath - key of folder of local user with SID "user_sid"
